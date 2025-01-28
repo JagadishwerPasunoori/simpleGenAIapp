@@ -4,5 +4,6 @@ langchain-community
 ipykernel
 beautifulsoup4
 streamlit
+langchain-openai
 
 
